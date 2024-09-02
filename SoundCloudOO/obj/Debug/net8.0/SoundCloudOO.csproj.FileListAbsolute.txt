@@ -1,0 +1,15 @@
+/workspaces/sound-cloud-oo/SoundCloudOO/bin/Debug/net8.0/SoundCloudOO
+/workspaces/sound-cloud-oo/SoundCloudOO/bin/Debug/net8.0/SoundCloudOO.deps.json
+/workspaces/sound-cloud-oo/SoundCloudOO/bin/Debug/net8.0/SoundCloudOO.runtimeconfig.json
+/workspaces/sound-cloud-oo/SoundCloudOO/bin/Debug/net8.0/SoundCloudOO.dll
+/workspaces/sound-cloud-oo/SoundCloudOO/bin/Debug/net8.0/SoundCloudOO.pdb
+/workspaces/sound-cloud-oo/SoundCloudOO/obj/Debug/net8.0/SoundCloudOO.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/sound-cloud-oo/SoundCloudOO/obj/Debug/net8.0/SoundCloudOO.AssemblyInfoInputs.cache
+/workspaces/sound-cloud-oo/SoundCloudOO/obj/Debug/net8.0/SoundCloudOO.AssemblyInfo.cs
+/workspaces/sound-cloud-oo/SoundCloudOO/obj/Debug/net8.0/SoundCloudOO.csproj.CoreCompileInputs.cache
+/workspaces/sound-cloud-oo/SoundCloudOO/obj/Debug/net8.0/SoundCloudOO.sourcelink.json
+/workspaces/sound-cloud-oo/SoundCloudOO/obj/Debug/net8.0/SoundCloudOO.dll
+/workspaces/sound-cloud-oo/SoundCloudOO/obj/Debug/net8.0/refint/SoundCloudOO.dll
+/workspaces/sound-cloud-oo/SoundCloudOO/obj/Debug/net8.0/SoundCloudOO.pdb
+/workspaces/sound-cloud-oo/SoundCloudOO/obj/Debug/net8.0/SoundCloudOO.genruntimeconfig.cache
+/workspaces/sound-cloud-oo/SoundCloudOO/obj/Debug/net8.0/ref/SoundCloudOO.dll
