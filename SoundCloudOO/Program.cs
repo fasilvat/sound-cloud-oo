@@ -9,3 +9,4 @@ musica2.Nome = "É quente";
 
 album.AdicionarMusica(musica1);
 album.AdicionarMusica(musica2);
+album.ExibirMusicasDoAlbum();

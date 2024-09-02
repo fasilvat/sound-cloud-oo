@@ -9,4 +9,13 @@ class Album {
     {
         musicas.Add(musica);
     }
+
+    public void ExibirMusicasDoAlbum() {
+
+        Console.WriteLine($"Lista de músicas do álbum {Nome}:");
+
+        foreach (var m in musicas) {
+            Console.WriteLine(m.Nome);
+        } 
+    }
 }
